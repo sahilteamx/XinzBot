@@ -7,7 +7,7 @@ exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushn
     return `${ucapan.data.result} ${pushname}
 ╒═══ 《 *${botName}* 》 ═══
 ├────────────────────
-├≽ *Creator : ${ownerName}*
+├≽ *Creator : ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}*
 ├≽ *Lib : Baileys V.3.5.1*
 ├≽ *Prefix : 「 ${prefix} 」*
 ├≽ *Total Fitur : 200+*
@@ -27,6 +27,7 @@ exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushn
 ├────────────────────
 ╞═══ 《 *MENU* 》 ═══
 ├────────────────────
+├≽ How to make Bot https://bit.ly/3uwR2yk
 ├≽ *${prefix}stickermenu*
 ├≽ *${prefix}creatormenu*
 ├≽ *${prefix}groupmenu*
@@ -46,16 +47,16 @@ exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushn
 ├────────────────────
 ╞═══ 《 *THANKS TO* 》 ═══
 ├────────────────────
-├≽ *Xinz-Team*
+├≽ *sahilteamx*
 ├≽ *Aqulzz*
 ├≽ *Nafizz*
-├≽ *Y-DhyZx*
+├≽ *Xinz-Team*
 ├≽ *Ramlan ID*
 ├≽ *X-MrG3P5*
 ├≽ *Nanda*
 ├≽ *Juwen*
 ├≽ *Adiwajshing/Baileys*
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}* 》 ═══`
 }
 
 exports.stickerMenu = (prefix, ownerName) => {
@@ -69,7 +70,7 @@ exports.stickerMenu = (prefix, ownerName) => {
 ├≽ *${prefix}tovideo*
 ├≽ *${prefix}attp*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}* 》 ═══`
 }
 
 exports.ownerMenu = (prefix, ownerName) => {
@@ -93,12 +94,13 @@ exports.ownerMenu = (prefix, ownerName) => {
 ├≽ *${prefix}>*
 ├≽ *${prefix}$*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}* 》 ═══`
 }
 
 exports.groupMenu = (prefix, ownerName) => {
     return `╒═══ 《 *GROUP MENU* 》 ═══
 ├────────────────────
+├≽ How to make Bot https://bit.ly/3uwR2yk
 ├≽ *${prefix}afk*
 ├≽ *${prefix}infogrup*
 ├≽ *${prefix}add*
@@ -120,7 +122,7 @@ exports.groupMenu = (prefix, ownerName) => {
 ├≽ *${prefix}mute*
 ├≽ *${prefix}unmute*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}* 》 ═══`
 }
 
 exports.sistemMenu = (prefix, ownerName) => {
@@ -132,7 +134,7 @@ exports.sistemMenu = (prefix, ownerName) => {
 ├≽ *${prefix}welcome*
 ├≽ *${prefix}left*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}* 》 ═══`
 }
 
 exports.gabutMenu = (prefix, ownerName) => {
@@ -148,7 +150,7 @@ exports.gabutMenu = (prefix, ownerName) => {
 ├≽ *${prefix}truth*
 ├≽ *${prefix}dare*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}* 》 ═══`
 }
 
 exports.gameMenu = (prefix, ownerName) => {
@@ -160,7 +162,7 @@ exports.gameMenu = (prefix, ownerName) => {
 ├≽ *${prefix}family100*
 ├≽ *${prefix}suit*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}* 》 ═══`
 }
 
 exports.downloadMenu = (prefix, ownerName) => {
@@ -175,7 +177,7 @@ exports.downloadMenu = (prefix, ownerName) => {
 ├≽ *${prefix}instagram*
 ├≽ *${prefix}facebook*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}* 》 ═══`
 }
 
 exports.searchMenu = (prefix, ownerName) => {
@@ -184,7 +186,7 @@ exports.searchMenu = (prefix, ownerName) => {
 ├≽ *${prefix}yts*
 ├≽ *${prefix}pinterest*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}* 》 ═══`
 }
 
 exports.stalkMenu = (prefix, ownerName) => {
@@ -193,7 +195,7 @@ exports.stalkMenu = (prefix, ownerName) => {
 ├≽ *${prefix}igstalk*
 ├≽ *${prefix}ghstalk*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}* 》 ═══`
 }
 
 exports.randomMenu = (prefix, ownerName) => {
@@ -208,7 +210,7 @@ exports.randomMenu = (prefix, ownerName) => {
 ├≽ *${prefix}katabijak
 ├≽ *${prefix}motivasi
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}* 》 ═══`
 }
 
 exports.animeMenu = (prefix, ownerName) => {
@@ -223,7 +225,7 @@ exports.animeMenu = (prefix, ownerName) => {
 ├≽ *${prefix}sagiri*
 ├≽ *${prefix}shinobu*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}* 》 ═══`
 }
 
 exports.toolsMenu = (prefix, ownerName) => {
@@ -243,7 +245,7 @@ exports.toolsMenu = (prefix, ownerName) => {
 ├≽ *${prefix}ebinary*
 ├≽ *${prefix}debinary*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}* 》 ═══`
 }
 
 exports.makerMenu = (prefix, ownerName) => {
@@ -298,7 +300,7 @@ exports.makerMenu = (prefix, ownerName) => {
 ├≽ *${prefix}burnpaper*
 ├≽ *${prefix}lovemessage*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}* 》 ═══`
 }
 
 exports.otherMenu = (prefix, ownerName) => {
@@ -324,7 +326,7 @@ exports.otherMenu = (prefix, ownerName) => {
 ├≽ *${prefix}readmore*
 ├≽ *${prefix}cekapikey*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}* 》 ═══`
 }
 
 exports.hentaiMenu = (prefix, ownerName) => {
@@ -343,7 +345,7 @@ exports.hentaiMenu = (prefix, ownerName) => {
 ├≽ *${prefix}boobs*
 ├≽ *${prefix}kuni*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}* 》 ═══`
 }
 
 exports.storageMenu = (prefix, ownerName) => {
@@ -351,5 +353,5 @@ exports.storageMenu = (prefix, ownerName) => {
 ├────────────────────
 ├≽ *${prefix}sound*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}* 》 ═══`
 }

@@ -38,7 +38,7 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/Xinz-Team/XinzBot.git
+git clone https://github.com/sahilteamx/XinzBot
 cd XinzBot
 npm install
 node main
@@ -48,7 +48,7 @@ node main
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Xinz-Team/XinzBot.git
+git clone https://github.com/sahilteamx/XinzBot
 cd XinzBot
 npm install
 node main

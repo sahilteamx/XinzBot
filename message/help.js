@@ -5,9 +5,9 @@ exports.menu = (prefix, i) => {
 
 exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushname, isOwner, isPremium, sisalimit, limitCount, glimit, gcount, expired, tanggal, jam) => {
     return `${ucapan.data.result} ${pushname}
-╒═══ 《 *${botName}* 》 ═══
+╒═══ 《 *${Ash Bot}* 》 ═══
 ├────────────────────
-├≽ *Creator : ${𓆰◡̈⃝𝘼𝘀𝙝𓆪⁩}*
+├≽ *Creator : ${Ash}*
 ├≽ *Lib : Baileys V.3.5.1*
 ├≽ *Prefix : 「 ${prefix} 」*
 ├≽ *Total Fitur : 200+*
